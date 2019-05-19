@@ -1,9 +1,9 @@
 def main():
-	"""
-	Main function of the program.
-	"""
-	print("Hello World!")
+    """
+    Main function of the program.
+    """
+    print("Hello World!")
 
 
 if __name__ == '__main__':
-	main()
+    main()
